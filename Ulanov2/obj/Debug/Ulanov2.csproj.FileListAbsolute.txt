@@ -1,0 +1,12 @@
+C:\Project\Ulanov2\Ulanov2\bin\Debug\Ulanov2.exe.config
+C:\Project\Ulanov2\Ulanov2\bin\Debug\Ulanov2.exe
+C:\Project\Ulanov2\Ulanov2\bin\Debug\Ulanov2.pdb
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.csprojAssemblyReference.cache
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.Properties.Resources.resources
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.csproj.GenerateResource.cache
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.csproj.CoreCompileInputs.cache
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.exe
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.pdb
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.Form1.resources
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.Form2.resources
+C:\Project\Ulanov2\Ulanov2\obj\Debug\Ulanov2.Form3.resources
